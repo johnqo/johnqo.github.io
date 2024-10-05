@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://johnqo.github.io/PLc/sitemap.PLc.gz
